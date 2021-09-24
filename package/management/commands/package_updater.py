@@ -7,6 +7,7 @@ from django.core.management.base import BaseCommand
 from github3 import login as github_login
 
 from package.models import Package
+from package.tasks import update_package_task
 from core.utils import healthcheck
 
 logger = logging.getLogger(__name__)
@@ -41,6 +42,7 @@ class Command(BaseCommand):
 
             try:
                 try:
+                    update_package_task.delay(package.id)
                     package.fetch_metadata(fetch_pypi=False)
                     package.fetch_commits()
                 except Exception as e:
