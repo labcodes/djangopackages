@@ -13,15 +13,6 @@ from core.utils import healthcheck
 logger = logging.getLogger(__name__)
 
 
-class PackageUpdaterException(Exception):
-    def __init__(self, error, title):
-        log_message = "For {title}, {error_type}: {error}".format(
-            title=title, error_type=type(error), error=error
-        )
-        logging.critical(log_message)
-        logging.exception(error)
-
-
 class Command(BaseCommand):
 
     help = "Updates all the packages in the system. Commands belongs to django-packages.package"
@@ -40,18 +31,7 @@ class Command(BaseCommand):
                     sleep(120)
                 break
 
-            try:
-                try:
-                    update_package_task.delay(package.id)
-                    package.fetch_metadata(fetch_pypi=False)
-                    package.fetch_commits()
-                except Exception as e:
-                    logger.error(
-                        f"Error while fetching package details for {package.title}."
-                    )
-                    raise PackageUpdaterException(e, package.title)
-            except PackageUpdaterException:
-                logger.error(f"Unable to update {package.title}", exc_info=True)
+            update_package_task.delay(package.id)
 
             print(f"{__file__}::handle::sleep(5)")
             sleep(5)
