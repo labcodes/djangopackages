@@ -1,5 +1,10 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2021-10-30]
+### Changed
+- Avoid running the docker image building on forks ([#762](https://api.github.com/repos/djangopackages/djangopackages/pulls/762))
+- Fix changelog links ([#758](https://api.github.com/repos/djangopackages/djangopackages/pulls/758))
+
 ## [2021-10-29]
 ### Changed
 - :bug: Hot fix for license format ([#754](https://api.github.com/repos/djangopackages/djangopackages/pulls/754))
