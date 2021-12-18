@@ -1,5 +1,9 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2021-12-17]
+### Changed
+- Avoid docker image/volume collision by using a namespace ([#755](https://api.github.com/repos/djangopackages/djangopackages/pulls/755))
+
 ## [2021-10-30]
 ### Changed
 - Avoid running the docker image building on forks ([#762](https://api.github.com/repos/djangopackages/djangopackages/pulls/762))
