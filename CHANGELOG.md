@@ -1,5 +1,11 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2022-01-04]
+### Changed
+- Grid of the Week panel on the Home page ([#760](https://api.github.com/repos/djangopackages/djangopackages/pulls/760))
+- Add healthcheck to the docker-compose dev.yml ([#756](https://api.github.com/repos/djangopackages/djangopackages/pulls/756))
+- :arrow_up: Upgrades Django to 4.0 ([#766](https://api.github.com/repos/djangopackages/djangopackages/pulls/766))
+
 ## [2021-12-17]
 ### Changed
 - Avoid docker image/volume collision by using a namespace ([#755](https://api.github.com/repos/djangopackages/djangopackages/pulls/755))
