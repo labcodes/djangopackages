@@ -1,5 +1,9 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2022-01-15]
+### Changed
+- ✨  Adds Celery support ([#770](https://api.github.com/repos/djangopackages/djangopackages/pulls/770))
+
 ## [2022-01-06]
 ### Changed
 - :whale: Refactor Docker Compose slightly ([#769](https://api.github.com/repos/djangopackages/djangopackages/pulls/769))
