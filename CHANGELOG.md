@@ -1,5 +1,11 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2022-02-19]
+### Changed
+- Handle archived projects ([#761](https://api.github.com/repos/djangopackages/djangopackages/pulls/761))
+- ✏️  2022-02-18 Friday Updates 3 ([#788](https://api.github.com/repos/djangopackages/djangopackages/pulls/788))
+- :bug: Fixes #786 License is blank ([#787](https://api.github.com/repos/djangopackages/djangopackages/pulls/787))
+
 ## [2022-02-18]
 ### Changed
 - 🔨  2022-02-18 Friday updates ([#785](https://api.github.com/repos/djangopackages/djangopackages/pulls/785))
