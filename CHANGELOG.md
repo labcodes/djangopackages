@@ -1,5 +1,9 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2022-02-21]
+### Changed
+- fixes test_score test failure ([#792](https://api.github.com/repos/djangopackages/djangopackages/pulls/792))
+
 ## [2022-02-20]
 ### Changed
 - 💚  Boosting Package Fixtures and QOL ([#790](https://api.github.com/repos/djangopackages/djangopackages/pulls/790))
