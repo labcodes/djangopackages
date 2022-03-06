@@ -1,5 +1,14 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2022-03-05]
+### Changed
+- :sparkles: Adds more stats to /open/ page ([#803](https://api.github.com/repos/djangopackages/djangopackages/pulls/803))
+- :bug: Fix for /python3/ sorting options ([#802](https://api.github.com/repos/djangopackages/djangopackages/pulls/802))
+- :green_heart: Fix /python3/ page ([#801](https://api.github.com/repos/djangopackages/djangopackages/pulls/801))
+- :hammer: Update Archive and Deprecate in template ([#800](https://api.github.com/repos/djangopackages/djangopackages/pulls/800))
+- Add tests for Archived GitHub Projects and refactors Repos tests  ([#799](https://api.github.com/repos/djangopackages/djangopackages/pulls/799))
+- :sparkles: Audit script to find records with max_length &gt; 500 ([#798](https://api.github.com/repos/djangopackages/djangopackages/pulls/798))
+
 ## [2022-03-04]
 ### Changed
 - 💚 2022-03-02(03) QOL Update ([#797](https://api.github.com/repos/djangopackages/djangopackages/pulls/797))
