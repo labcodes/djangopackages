@@ -1,5 +1,12 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2022-03-17]
+### Changed
+- ✨  2022-03-17 More Cleanup ([#811](https://api.github.com/repos/djangopackages/djangopackages/pulls/811))
+- ✨  2022-03-17 Updates ([#810](https://api.github.com/repos/djangopackages/djangopackages/pulls/810))
+- 2022-03-16 Updates ([#809](https://api.github.com/repos/djangopackages/djangopackages/pulls/809))
+- Implement emoji ([#807](https://api.github.com/repos/djangopackages/djangopackages/pulls/807))
+
 ## [2022-03-08]
 ### Changed
 - :pencil: Adds release/version info to Sentry ([#805](https://api.github.com/repos/djangopackages/djangopackages/pulls/805))
