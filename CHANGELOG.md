@@ -1,5 +1,10 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2022-03-18]
+### Changed
+- :elephant: Package Updater Refactor ([#813](https://api.github.com/repos/djangopackages/djangopackages/pulls/813))
+- :fire: Deleted code that&#39;s no longer referenced or used ([#812](https://api.github.com/repos/djangopackages/djangopackages/pulls/812))
+
 ## [2022-03-17]
 ### Changed
 - ✨  2022-03-17 More Cleanup ([#811](https://api.github.com/repos/djangopackages/djangopackages/pulls/811))
