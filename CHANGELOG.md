@@ -1,5 +1,9 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2022-03-22]
+### Changed
+- :elephant: Add Package Markers ([#814](https://api.github.com/repos/djangopackages/djangopackages/pulls/814))
+
 ## [2022-03-18]
 ### Changed
 - :elephant: Package Updater Refactor ([#813](https://api.github.com/repos/djangopackages/djangopackages/pulls/813))
