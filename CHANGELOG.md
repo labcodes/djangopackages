@@ -1,5 +1,9 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2022-03-26]
+### Changed
+- 2022-03-26 Updates ([#821](https://api.github.com/repos/djangopackages/djangopackages/pulls/821))
+
 ## [2022-03-25]
 ### Changed
 - :fire: Removes dj-pagination ([#820](https://api.github.com/repos/djangopackages/djangopackages/pulls/820))
