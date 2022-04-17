@@ -1,5 +1,9 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2022-04-16]
+### Changed
+- adds base template to 503.html ([#824](https://api.github.com/repos/djangopackages/djangopackages/pulls/824))
+
 ## [2022-04-12]
 ### Changed
 - Update django to 4.0.4 ([#823](https://api.github.com/repos/djangopackages/djangopackages/pulls/823))
