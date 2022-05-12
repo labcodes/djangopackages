@@ -1,5 +1,9 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2022-05-11]
+### Changed
+- Fixed redirect link ([#825](https://api.github.com/repos/djangopackages/djangopackages/pulls/825))
+
 ## [2022-04-16]
 ### Changed
 - adds base template to 503.html ([#824](https://api.github.com/repos/djangopackages/djangopackages/pulls/824))
