@@ -1,5 +1,9 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2022-07-04]
+### Changed
+- :arrow_up: Bumps Django and other deps for security updates ([#831](https://api.github.com/repos/djangopackages/djangopackages/pulls/831))
+
 ## [2022-05-13]
 ### Changed
 - :sparkles: 2022-05-13 Friday Updates ([#826](https://api.github.com/repos/djangopackages/djangopackages/pulls/826))
