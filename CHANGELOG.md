@@ -1,5 +1,10 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2022-08-29]
+### Changed
+- :fire: Drops django-redis ([#836](https://api.github.com/repos/djangopackages/djangopackages/pulls/836))
+- 🔥 Add more caching ([#835](https://api.github.com/repos/djangopackages/djangopackages/pulls/835))
+
 ## [2022-08-28]
 ### Changed
 - Add flagged package ([#830](https://api.github.com/repos/djangopackages/djangopackages/pulls/830))
