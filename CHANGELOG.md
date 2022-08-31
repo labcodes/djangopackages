@@ -1,5 +1,10 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2022-08-30]
+### Changed
+- :gear: set DISABLE_SERVER_SIDE_CURSORS to True ([#838](https://api.github.com/repos/djangopackages/djangopackages/pulls/838))
+- :rocket: Homepage Cache ([#837](https://api.github.com/repos/djangopackages/djangopackages/pulls/837))
+
 ## [2022-08-29]
 ### Changed
 - :fire: Drops django-redis ([#836](https://api.github.com/repos/djangopackages/djangopackages/pulls/836))
