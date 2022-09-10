@@ -1,5 +1,12 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2022-09-09]
+### Changed
+- :sparkles: 2022-09-09 Admin update ([#845](https://api.github.com/repos/djangopackages/djangopackages/pulls/845))
+- :arrow_up: Upgrades Deps ([#844](https://api.github.com/repos/djangopackages/djangopackages/pulls/844))
+- :pencil: Emoji fix for title and description fields ([#843](https://api.github.com/repos/djangopackages/djangopackages/pulls/843))
+- 2022-09-08 More Thursday updates ([#842](https://api.github.com/repos/djangopackages/djangopackages/pulls/842))
+
 ## [2022-09-08]
 ### Changed
 - :construction: 2022-09-08 Thursday updates ([#841](https://api.github.com/repos/djangopackages/djangopackages/pulls/841))
