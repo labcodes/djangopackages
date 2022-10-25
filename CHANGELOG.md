@@ -1,5 +1,9 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2022-10-24]
+### Changed
+- Add emojificate ([#849](https://api.github.com/repos/djangopackages/djangopackages/pulls/849))
+
 ## [2022-10-21]
 ### Changed
 - Added View More ([#852](https://api.github.com/repos/djangopackages/djangopackages/pulls/852))
