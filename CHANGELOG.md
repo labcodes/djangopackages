@@ -1,5 +1,10 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2022-10-27]
+### Changed
+- Add Option to Sort Grid Packages ([#854](https://api.github.com/repos/djangopackages/djangopackages/pulls/854))
+- Partial doc rewrite (docker) ([#856](https://api.github.com/repos/djangopackages/djangopackages/pulls/856))
+
 ## [2022-10-24]
 ### Changed
 - Add emojificate ([#849](https://api.github.com/repos/djangopackages/djangopackages/pulls/849))
