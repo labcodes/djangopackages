@@ -1,5 +1,10 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2022-11-07]
+### Changed
+- :fire: Removes `--file docker-compose.dev.yml` refs ([#870](https://api.github.com/repos/djangopackages/djangopackages/pulls/870))
+- Typos fixes ([#861](https://api.github.com/repos/djangopackages/djangopackages/pulls/861))
+
 ## [2022-11-04]
 ### Changed
 - Improve Package Detail View Database Query ([#866](https://api.github.com/repos/djangopackages/djangopackages/pulls/866))
