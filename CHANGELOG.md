@@ -1,5 +1,9 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2022-11-12]
+### Changed
+- ✨ Add widont support ([#872](https://api.github.com/repos/djangopackages/djangopackages/pulls/872))
+
 ## [2022-11-07]
 ### Changed
 - :fire: Removes `--file docker-compose.dev.yml` refs ([#870](https://api.github.com/repos/djangopackages/djangopackages/pulls/870))
