@@ -1,5 +1,10 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2022-11-20]
+### Changed
+- Optimize `OpenView` Database Query ([#877](https://api.github.com/repos/djangopackages/djangopackages/pulls/877))
+- :books: Added markdown version of license ([#879](https://api.github.com/repos/djangopackages/djangopackages/pulls/879))
+
 ## [2022-11-13]
 ### Changed
 - Add Sidebar and Logo for Documentation Page ([#874](https://api.github.com/repos/djangopackages/djangopackages/pulls/874))
