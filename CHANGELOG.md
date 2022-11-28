@@ -1,5 +1,9 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2022-11-27]
+### Changed
+- :sparkles: Adds check_package_examples ([#885](https://api.github.com/repos/djangopackages/djangopackages/pulls/885))
+
 ## [2022-11-26]
 ### Changed
 - :elephant: Default PackageExample.active to None ([#883](https://api.github.com/repos/djangopackages/djangopackages/pulls/883))
