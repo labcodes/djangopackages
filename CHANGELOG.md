@@ -1,5 +1,10 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2022-11-28]
+### Changed
+- :arrow_up: Package Updates ([#887](https://api.github.com/repos/djangopackages/djangopackages/pulls/887))
+- Add Open Graph / Twitter Meta Tags ([#869](https://api.github.com/repos/djangopackages/djangopackages/pulls/869))
+
 ## [2022-11-27]
 ### Changed
 - :sparkles: Adds check_package_examples ([#885](https://api.github.com/repos/djangopackages/djangopackages/pulls/885))
