@@ -1,5 +1,11 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-01-05]
+### Changed
+- :sparkles: Adds Classifiers and Products apps ([#896](https://api.github.com/repos/djangopackages/djangopackages/pulls/896))
+- 📈  Funding updates ([#895](https://api.github.com/repos/djangopackages/djangopackages/pulls/895))
+- ci(Mergify): configuration update ([#897](https://api.github.com/repos/djangopackages/djangopackages/pulls/897))
+
 ## [2022-12-28]
 ### Changed
 - :arrow_up: Rebuilds requirements (docker and requirements.*) and justfile ([#894](https://api.github.com/repos/djangopackages/djangopackages/pulls/894))
