@@ -1,5 +1,9 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-01-06]
+### Changed
+- :tractor: Small doc updates ([#898](https://api.github.com/repos/djangopackages/djangopackages/pulls/898))
+
 ## [2023-01-05]
 ### Changed
 - :sparkles: Adds Classifiers and Products apps ([#896](https://api.github.com/repos/djangopackages/djangopackages/pulls/896))
