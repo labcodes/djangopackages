@@ -1,5 +1,9 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-01-30]
+### Changed
+- :sparkles: Adds opengraph templates and views for Packages and Grids ([#902](https://api.github.com/repos/djangopackages/djangopackages/pulls/902))
+
 ## [2023-01-13]
 ### Changed
 - :arrow_up: Upgrades emojificate to latest (and other deps) ([#901](https://api.github.com/repos/djangopackages/djangopackages/pulls/901))
