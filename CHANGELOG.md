@@ -1,5 +1,9 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-02-03]
+### Changed
+- :arrow_up: Upgrade Django to 4.1.6 ([#904](https://api.github.com/repos/djangopackages/djangopackages/pulls/904))
+
 ## [2023-01-30]
 ### Changed
 - :sparkles: Adds opengraph templates and views for Packages and Grids ([#902](https://api.github.com/repos/djangopackages/djangopackages/pulls/902))
