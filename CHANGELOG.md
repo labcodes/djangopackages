@@ -1,5 +1,9 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-02-10]
+### Changed
+- Reduces UX copy to reduce cognitive load. ([#908](https://api.github.com/repos/djangopackages/djangopackages/pulls/908))
+
 ## [2023-02-06]
 ### Changed
 - ✏️ Fix typo ([#907](https://api.github.com/repos/djangopackages/djangopackages/pulls/907))
