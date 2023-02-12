@@ -1,5 +1,14 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-02-11]
+### Changed
+- :broom: Cleanup and config updates ([#921](https://api.github.com/repos/djangopackages/djangopackages/pulls/921))
+- :pencil: Doc refactor and updates ([#920](https://api.github.com/repos/djangopackages/djangopackages/pulls/920))
+- :tractor: Updates docs domain ([#918](https://api.github.com/repos/djangopackages/djangopackages/pulls/918))
+- Docs: Refresh the index page  ([#914](https://api.github.com/repos/djangopackages/djangopackages/pulls/914))
+- :arrow_up: Update requirements ([#916](https://api.github.com/repos/djangopackages/djangopackages/pulls/916))
+- :sparkles: 2023-02-10 Doc updates ([#910](https://api.github.com/repos/djangopackages/djangopackages/pulls/910))
+
 ## [2023-02-10]
 ### Changed
 - Reduces UX copy to reduce cognitive load. ([#908](https://api.github.com/repos/djangopackages/djangopackages/pulls/908))
