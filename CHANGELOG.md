@@ -1,5 +1,9 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-02-19]
+### Changed
+- :art: Adjust opengraph previews ([#930](https://api.github.com/repos/djangopackages/djangopackages/pulls/930))
+
 ## [2023-02-18]
 ### Changed
 - :sparkles: Adds very alpha Django/Python/Wagtail Readiness ([#929](https://api.github.com/repos/djangopackages/djangopackages/pulls/929))
