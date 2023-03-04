@@ -1,5 +1,13 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-03-03]
+### Changed
+- Adds mkdocs service to docker compose ([#939](https://api.github.com/repos/djangopackages/djangopackages/pulls/939))
+- Fix Test Warnings ([#938](https://api.github.com/repos/djangopackages/djangopackages/pulls/938))
+- [pre-commit.ci] pre-commit autoupdate ([#936](https://api.github.com/repos/djangopackages/djangopackages/pulls/936))
+- [Documentation] Move to `MkDocs` ([#935](https://api.github.com/repos/djangopackages/djangopackages/pulls/935))
+- Enable `django-debug-toolbar` ([#934](https://api.github.com/repos/djangopackages/djangopackages/pulls/934))
+
 ## [2023-02-24]
 ### Changed
 - [pre-commit.ci] pre-commit autoupdate ([#933](https://api.github.com/repos/djangopackages/djangopackages/pulls/933))
