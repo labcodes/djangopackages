@@ -1,5 +1,10 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-03-04]
+### Changed
+-  :arrow_up: Upgrades requirements ([#941](https://api.github.com/repos/djangopackages/djangopackages/pulls/941))
+- 2023-03-03 Updates ([#940](https://api.github.com/repos/djangopackages/djangopackages/pulls/940))
+
 ## [2023-03-03]
 ### Changed
 - Adds mkdocs service to docker compose ([#939](https://api.github.com/repos/djangopackages/djangopackages/pulls/939))
