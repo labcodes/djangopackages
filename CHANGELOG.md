@@ -1,5 +1,9 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-03-06]
+### Changed
+- Update VSCode Dev Containers ([#943](https://api.github.com/repos/djangopackages/djangopackages/pulls/943))
+
 ## [2023-03-04]
 ### Changed
 -  :arrow_up: Upgrades requirements ([#941](https://api.github.com/repos/djangopackages/djangopackages/pulls/941))
