@@ -1,5 +1,9 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-03-07]
+### Changed
+- [pre-commit.ci] pre-commit autoupdate ([#944](https://api.github.com/repos/djangopackages/djangopackages/pulls/944))
+
 ## [2023-03-06]
 ### Changed
 - Update VSCode Dev Containers ([#943](https://api.github.com/repos/djangopackages/djangopackages/pulls/943))
