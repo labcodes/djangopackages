@@ -1,5 +1,12 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-03-28]
+### Changed
+- :hammer: Remove packages from the homepage with blank repo_descriptions ([#964](https://api.github.com/repos/djangopackages/djangopackages/pulls/964))
+- [pre-commit.ci] pre-commit autoupdate ([#963](https://api.github.com/repos/djangopackages/djangopackages/pulls/963))
+- Decrease Homepage Database Query Count ([#955](https://api.github.com/repos/djangopackages/djangopackages/pulls/955))
+- [pre-commit.ci] pre-commit autoupdate ([#957](https://api.github.com/repos/djangopackages/djangopackages/pulls/957))
+
 ## [2023-03-27]
 ### Changed
 - :fire: Removes `--all` option that wasn&#39;t working ([#959](https://api.github.com/repos/djangopackages/djangopackages/pulls/959))
