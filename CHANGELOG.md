@@ -1,5 +1,10 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-03-31]
+### Changed
+- :whale: Docker cleanup ([#969](https://api.github.com/repos/djangopackages/djangopackages/pulls/969))
+- 🚀  DO Droplet cleanup and documentation ([#967](https://api.github.com/repos/djangopackages/djangopackages/pulls/967))
+
 ## [2023-03-28]
 ### Changed
 - :hammer: Remove packages from the homepage with blank repo_descriptions ([#964](https://api.github.com/repos/djangopackages/djangopackages/pulls/964))
