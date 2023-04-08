@@ -1,5 +1,10 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-04-07]
+### Changed
+- :whale: Adds a .dockerignore file ([#972](https://api.github.com/repos/djangopackages/djangopackages/pulls/972))
+- :arrow_up: Upgrades Django to 4.2 ([#971](https://api.github.com/repos/djangopackages/djangopackages/pulls/971))
+
 ## [2023-03-31]
 ### Changed
 - :whale: Docker cleanup ([#969](https://api.github.com/repos/djangopackages/djangopackages/pulls/969))
