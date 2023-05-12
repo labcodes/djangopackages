@@ -1,5 +1,11 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-05-11]
+### Changed
+- :pencil: Updates package example search ([#977](https://api.github.com/repos/djangopackages/djangopackages/pulls/977))
+- ⬆️ Bump django from 4.2 to 4.2.1 ([#976](https://api.github.com/repos/djangopackages/djangopackages/pulls/976))
+- [pre-commit.ci] pre-commit autoupdate ([#975](https://api.github.com/repos/djangopackages/djangopackages/pulls/975))
+
 ## [2023-05-04]
 ### Changed
 - [pre-commit.ci] pre-commit autoupdate ([#973](https://api.github.com/repos/djangopackages/djangopackages/pulls/973))
