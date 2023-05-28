@@ -1,5 +1,9 @@
 <!-- GENERATOR_PLACEHOLDER -->
 
+## [2023-05-27]
+### Changed
+- [pre-commit.ci] pre-commit autoupdate ([#982](https://api.github.com/repos/djangopackages/djangopackages/pulls/982))
+
 ## [2023-05-19]
 ### Changed
 - :arrow_up: Bumps deps ([#981](https://api.github.com/repos/djangopackages/djangopackages/pulls/981))
