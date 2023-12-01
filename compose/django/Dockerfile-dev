@@ -17,6 +17,18 @@ COPY ./compose/django/start-dev.sh /start-dev.sh
 RUN sed -i 's/\r//' /start-dev.sh
 RUN chmod +x /start-dev.sh
 
+COPY ./compose/django/celery/worker/start.sh /start-celeryworker.sh
+RUN sed -i 's/\r//' /start-celeryworker.sh
+RUN chmod +x /start-celeryworker.sh
+
+COPY ./compose/django/celery/beat/start.sh /start-celerybeat.sh
+RUN sed -i 's/\r//' /start-celerybeat.sh
+RUN chmod +x /start-celerybeat.sh
+
+COPY ./compose/django/celery/flower/start.sh /start-flower.sh
+RUN sed -i 's/\r//' /start-flower.sh
+RUN chmod +x /start-flower.sh
+
 
 WORKDIR /app
 

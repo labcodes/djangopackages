@@ -48,6 +48,7 @@ jobs:
           DEBUG: false
           REDIS_URL: 'redis://redis:6379/0'
           SECRET_KEY: 'this-is-for-testing-only'
+          CELERY_BROKER_URL: 'redis://redis:6379/0'
 
         run: |
           python -m pytest .

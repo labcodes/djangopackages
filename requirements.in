@@ -48,3 +48,8 @@ pytest-django
 # utils
 bumpver
 six
+
+# celery
+celery==5.1.2
+django-celery-beat==2.2.1
+flower==1.0.0

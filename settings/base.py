@@ -154,6 +154,7 @@ PREREQ_APPS = [
     "social_django",
     "waffle",
     "webstack_django_sorting",
+    "django_celery_beat",
 ]
 
 INSTALLED_APPS = PREREQ_APPS + PROJECT_APPS
@@ -344,3 +345,12 @@ REST_FRAMEWORK = {
 }
 
 WAFFLE_CREATE_MISSING_SWITCHES = True
+
+
+# Celery
+CELERY_BROKER_URL = env("CELERY_BROKER_URL")
+CELERY_RESULT_BACKEND = CELERY_BROKER_URL
+CELERY_ACCEPT_CONTENT = ["json"]
+CELERY_TASK_SERIALIZER = "json"
+CELERY_RESULT_SERIALIZER = "json"
+CELERY_BEAT_SCHEDULER = "django_celery_beat.schedulers:DatabaseScheduler"
